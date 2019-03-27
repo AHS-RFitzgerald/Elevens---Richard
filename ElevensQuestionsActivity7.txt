@@ -1,0 +1,13 @@
+1. 	Cards.
+2. 	Deal Cards
+	Match cards to equal eleven
+	Match one Jack, Queen, and King together.
+	Deal cards replacing the ones matched.
+	If no matches then redeal and play again.
+3.	Yes.
+4.	a. At the end of the method outside of the for loop.
+	b. replaceSelectedCards method
+	c. J, 6, 2, A, 4
+	d. for(int x = 0; x < cIndexes.size; x++){
+		System.out.println(cIndexes.get(x));
+	e. replaceSelectedCards method;
