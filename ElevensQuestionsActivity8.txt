@@ -1,0 +1,5 @@
+1. Elevens - You have to add cards together to get eleven or match a J, Q, K.
+   Tens - You have to add cards together to get ten, or match a quartet of J's, Q's, or K's
+   Thirteens - You have to match up cards to equal thirteen, with jacks being 11, and queens being 12 and kings get out singly
+2. elevensBoard board = new Board();
+3. They are written in a nonspecific way so that those methods can be use by all elevens related games.
